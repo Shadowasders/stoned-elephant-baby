@@ -1,7 +1,7 @@
 {
   "name": "20-stu-data-persistence",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "license": "MIT",
   "scripts": {
     "start": "node server"
